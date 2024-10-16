@@ -1,5 +1,5 @@
 <h1>System Design Concepts Every Engineer Must Know</h1><hr />
-<img src="https://images.hdqwalls.com/download/ultra-instinct-goku-4k-e3-2560x1440.jpg">
+<img src="https://www.tessolve.com/wp-content/uploads/2022/08/embedded-system-design.jpg">
 <p>We all know that System Design is the core concept behind the design of any distributed system. Therefore every person in the tech industry needs to have at least a basic understanding of what goes behind designing a System. With this intent, we have brought to you the ultimate System Design Interview Bootcamp, a one-stop solution for learning System Design.</p><br />
 
 <p> The most important stage in any development process, be it Software or any other tech, is Design. Without the designing phase, you cannot jump to the implementation of the testing part. The same is the case with the System as well.</p> <br />
