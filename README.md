@@ -6,7 +6,7 @@ basic understanding of what goes behind designing a System. With this intent, we
 brought to you the ultimate System Design Interview Bootcamp, a one-stop solution for
 learning System Design. </pre><br />
   
- <pre align = "justified"> The most important stage in any development process, be it Software or any other tech,
+ <pre text-align: justify;> The most important stage in any development process, be it Software or any other tech,
 is Design. Without the designing phase, you cannot jump to the implementation of the
 testing part. The same is the case with the System as well.</pre> <br />
 
