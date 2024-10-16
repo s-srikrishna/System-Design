@@ -5,25 +5,24 @@
 
 <p>
   Important Topics For The System Design Interview Bootcamp
-    <li>1. System Design Fundamentals </li>
-    2. Procedure to Design Systems
-    3. What is High-Level Design?
-    4. Storage options in System Design
-    5. Message Queues
-    6. Types of File Systems
-    7. System Design Patterns
-    8. Databases in System Design
-    9. What is Low-Level Design?
-    10. What are distributed systems?
-    11. Distributed System Failures
-    12. Distributed System Fundamentals
-    13. UML Diagrams for System Design
-    14. Scalable web applications
-    15. Caching
-    16. Essential Security Measures in System Design
-    17. Machine Learning and System Design
-    18. Containerization and System Design
-    19. The cloud and System Design
-    20. Interview Guide for System Design
-    </li>
-</pre> <hr />
+    <li>System Design Fundamentals </li>
+    <li>Procedure to Design Systems</li>
+    <li>What is High-Level Design?</li>
+    <li>Storage options in System Design</li>
+    <li>Message Queues</li>
+    <li>Types of File Systems</li>
+    <li>System Design Patterns</li>
+    <li>Databases in System Design</li>
+    <li>What is Low-Level Design?</li>
+    <li>What are distributed systems?</li>
+    <li>Distributed System Failures</li>
+    <li>Distributed System Fundamentals</li>
+    <li>UML Diagrams for System Design</li>
+    <li>Scalable web applications</li>
+    <li>Caching</li>
+    <li>Essential Security Measures in System Design</li>
+    <li>Machine Learning and System Design</li>
+    <li>Containerization and System Design</li>
+    <li>The cloud and System Design</li>
+    <li>Interview Guide for System Design</li>
+</p> <hr />
