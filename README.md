@@ -1,18 +1,12 @@
 <h1>System Design Bootcamp – 20 System Design Concepts Every Engineer Must Know</h1><hr />
-<pre>
-  We all know that System Design is the core concept behind the design of any
-distributed system. Therefore every person in the tech industry needs to have at least a
-basic understanding of what goes behind designing a System. With this intent, we have
-brought to you the ultimate System Design Interview Bootcamp, a one-stop solution for
-learning System Design. </pre><br />
-  
- <pre text-align: justify;> The most important stage in any development process, be it Software or any other tech,
-is Design. Without the designing phase, you cannot jump to the implementation of the
-testing part. The same is the case with the System as well.</pre> <br />
+<p>We all know that System Design is the core concept behind the design of any distributed system. Therefore every person in the tech industry needs to have at least a basic understanding of what goes behind designing a System. With this intent, we have brought to you the ultimate System Design Interview Bootcamp, a one-stop solution for learning System Design.</p><br />
 
-<pre>
+<p> The most important stage in any development process, be it Software or any other tech, is Design. Without the designing phase, you cannot jump to the implementation of the testing part. The same is the case with the System as well.</p> <br />
+
+<p>
   Important Topics For The System Design Interview Bootcamp
-    1. System Design Fundamentals
+    <li>
+      <ol>1. System Design Fundamentals </ol>
     2. Procedure to Design Systems
     3. What is High-Level Design?
     4. Storage options in System Design
@@ -32,4 +26,5 @@ testing part. The same is the case with the System as well.</pre> <br />
     18. Containerization and System Design
     19. The cloud and System Design
     20. Interview Guide for System Design
+    </li>
 </pre> <hr />
