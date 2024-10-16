@@ -1,4 +1,4 @@
-<h1>System Design Concepts Every Engineer Must Know</h1><hr />
+<h1 align=center>System Design Concepts Every Engineer Must Know</h1><hr />
 <img src="https://www.tessolve.com/wp-content/uploads/2022/08/embedded-system-design.jpg">
 <p>We all know that System Design is the core concept behind the design of any distributed system. Therefore every person in the tech industry needs to have at least a basic understanding of what goes behind designing a System. With this intent, we have brought to you the ultimate System Design Interview Bootcamp, a one-stop solution for learning System Design.</p><br />
 
