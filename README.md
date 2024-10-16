@@ -5,8 +5,7 @@
 
 <p>
   Important Topics For The System Design Interview Bootcamp
-    <li>
-      <ol>1. System Design Fundamentals </ol>
+    <li>1. System Design Fundamentals </li>
     2. Procedure to Design Systems
     3. What is High-Level Design?
     4. Storage options in System Design
