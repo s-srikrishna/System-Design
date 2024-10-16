@@ -4,12 +4,13 @@
 distributed system. Therefore every person in the tech industry needs to have at least a
 basic understanding of what goes behind designing a System. With this intent, we have
 brought to you the ultimate System Design Interview Bootcamp, a one-stop solution for
-learning System Design.
+learning System Design. </pre><br />
   
-  The most important stage in any development process, be it Software or any other tech,
+ <pre> The most important stage in any development process, be it Software or any other tech,
 is Design. Without the designing phase, you cannot jump to the implementation of the
-testing part. The same is the case with the System as well.
+testing part. The same is the case with the System as well.</pre> <br />
 
+<pre>
   Important Topics For The System Design Interview Bootcamp
     1. System Design Fundamentals
     2. Procedure to Design Systems
